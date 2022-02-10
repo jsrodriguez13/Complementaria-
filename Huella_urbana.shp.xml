@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20220209</CreaDate><CreaTime>19291900</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.4\ArcToolbox\Toolboxes\Conversion Tools.tbx\RasterToPolygon" Date="20210628" Time="140150">RasterToPolygon D:\Temp\Extract_city1 D:\Urban_Landscape_Analysis_Data_fourtime\Output\Municipio_Medellin\urban_edge_t4.shp NO_SIMPLIFY VALUE</Process></lineage></DataProperties></Esri></metadata>
